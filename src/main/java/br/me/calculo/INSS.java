@@ -5,7 +5,7 @@ import java.math.RoundingMode;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Calculo {
+public class INSS {
 	
 	public static final String PORTARIA = "Portaria SEPRT 3.659/2020";
 
@@ -23,7 +23,7 @@ public class Calculo {
 		return LIMITE[i - 1];
 	}
 
-	public static Double executar(Double V) {
+	public static Double calcular(Double V) {
 
 		// Ler ALIQ(i), LIM(i)
 
