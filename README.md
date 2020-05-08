@@ -5,7 +5,7 @@ Algorítmo do cálculo de recolhimento dlinke contribuição ao INSS (Reforma 20
 
 
 ## Download
-- **Jar**: [Link para Download](https://github.com/marcoseduardoss/recolhimento-inss-brasil/tree/master/build)
+- **Jar**: [Link para download](https://github.com/marcoseduardoss/recolhimento-inss-brasil/tree/master/build)
 
 ## Algoritmo
 - **Código fonte**: [https://github.com/marcoseduardoss/recolhimento-inss-brasil/blob/master/src/main/java/br/me/calculo/INSS.java](https://github.com/marcoseduardoss/recolhimento-inss-brasil/blob/master/src/main/java/br/me/calculo/INSS.java)
