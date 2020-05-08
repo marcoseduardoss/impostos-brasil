@@ -1,6 +1,6 @@
 # calculo-recolhimento-inss-2020
 Algorítmo do cálculo de recolhimento dlinke contribuição ao INSS (Reforma 2020) 
- - Portaria SEPRT 3.659/2020: [Link](http://www.in.gov.br/en/web/dou/-/portaria-n-3.659-de-10-de-fevereiro-de-2020-242573505)
+ - Portaria SEPRT 3.659/2020: [Link para download](http://www.in.gov.br/en/web/dou/-/portaria-n-3.659-de-10-de-fevereiro-de-2020-242573505)
  - Vigência de 01.03.2020 a 31.12.2020
 
 
