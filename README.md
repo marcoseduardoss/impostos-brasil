@@ -5,7 +5,7 @@ Algorítmo do cálculo de recolhimento de contribuição ao INSS (Reforma 2020)
 
 
 ## Download
-- **Jar**: [Link para download](https://github.com/marcoseduardoss/recolhimento-inss-brasil/tree/master/build)
+- **Jar**: [Link para download](https://github.com/marcoseduardoss/recolhimento-inss-brasil/raw/master/build/recolhimento-inss-brasil-1.0.0.jar)
 
 ## Algoritmo
 - **Código fonte**: [https://github.com/marcoseduardoss/recolhimento-inss-brasil/blob/master/src/main/java/br/me/calculo/INSS.java](https://github.com/marcoseduardoss/recolhimento-inss-brasil/blob/master/src/main/java/br/me/calculo/INSS.java)
