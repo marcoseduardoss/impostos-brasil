@@ -1,4 +1,10 @@
-# Calculo-recolhimento-inss-2020
+## Impostos Brasil
+
+Projeto OpenSource idealizado disponibilizar uma biblioteca de cálculos de impostos brasileiros codificados para uso gratuito e livre. Por exemplo, recolhi-mento de contribuição ao INSS, férias e outros.
+
+Trata-se de um projeto pequeno que, por enquanto, só possui uma classe de teste e uma classe com o cálculo de recolhimento de contribuição ao INSS cri-ado conforme regras da Portaria SEPRT 3.659/2020.
+
+## Calculo-recolhimento-inss-2020
 Algorítmo do cálculo de recolhimento de contribuição ao INSS (Reforma 2020) 
  - Portaria SEPRT 3.659/2020: [Link para download](http://www.in.gov.br/en/web/dou/-/portaria-n-3.659-de-10-de-fevereiro-de-2020-242573505)
  - Vigência de 01.03.2020 a 31.12.2020
